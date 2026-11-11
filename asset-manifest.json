@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AITSPatna/textUtils.git/static/css/main.f855e6bc.css",
+    "main.js": "/AITSPatna/textUtils.git/static/js/main.01dbe2d1.js",
+    "static/js/453.ff84864b.chunk.js": "/AITSPatna/textUtils.git/static/js/453.ff84864b.chunk.js",
+    "index.html": "/AITSPatna/textUtils.git/index.html",
+    "main.f855e6bc.css.map": "/AITSPatna/textUtils.git/static/css/main.f855e6bc.css.map",
+    "main.01dbe2d1.js.map": "/AITSPatna/textUtils.git/static/js/main.01dbe2d1.js.map",
+    "453.ff84864b.chunk.js.map": "/AITSPatna/textUtils.git/static/js/453.ff84864b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.01dbe2d1.js"
+  ]
+}
